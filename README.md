@@ -3,3 +3,5 @@
 
 ## AI类
 
+## 开源项目
+工业互联网：https://doc.dgiotcloud.cn/docs/practical_tutorial/docs/video/
