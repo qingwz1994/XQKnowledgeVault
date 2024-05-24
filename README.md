@@ -14,3 +14,6 @@
 ## Windows资源
   ### 小说阅读工具
     https://github.com/binbyu/Reader/releases
+
+## 书籍类
+一个把极客时间 159个专栏都做成了 epub 电子书的项目：https://github.com/it-ebooks-0/geektime-books
