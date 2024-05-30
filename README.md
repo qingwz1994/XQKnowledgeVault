@@ -18,3 +18,6 @@
 
 ## 书籍类
 一个把极客时间 159个专栏都做成了 epub 电子书的项目：https://github.com/it-ebooks-0/geektime-books
+
+## 副业
+https://github.com/bleedline/aimoneyhunter?tab=readme-ov-file
