@@ -7,6 +7,7 @@
 ## 开源项目
 工业互联网：https://doc.dgiotcloud.cn/docs/practical_tutorial/docs/video/
 一个收集各种免费的在线开发工具和服务（SaaS、PaaS、IaaS 等）的列表:https://github.com/ripienaar/free-for-dev
+汇总统计各大厂的 开源团队和项目：https://github.com/LeslieLeung/opensource-lighthouse
 
 ## 文件传输
 一个在适用于所有平台的 Web 端本地文件共享工具：https://pairdrop.net/
